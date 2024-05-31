@@ -4,7 +4,6 @@ export const globalValue = {
   },
 };
 
-
 export const headerLabel = [
   {
     labelName: 'Dashboard',
@@ -13,7 +12,7 @@ export const headerLabel = [
   },
   {
     labelName: 'Users',
-    path: '/users',
+    path: '/userList',
     view: 'ADMIN',
   },
   {
